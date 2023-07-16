@@ -1,0 +1,14 @@
+{
+    "name": "Sakthivel",
+    "age": 24,
+    "isProgrammer": true,
+    "boxer": null,
+    "hobbies": ["Coding", "Reading"],
+    "friends": [{
+        "name": "ram",
+        "age": 23,
+        "isProgrammer": false,
+        "boxer": "yes",
+        "hobbies": ["Reading"]
+    }]
+}
